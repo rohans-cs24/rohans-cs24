@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#### Quick Links:
 <a href="https://github.com/rohans-cs24/AI" target="_blank" rel="noopener noreferrer">
 <img width="98" height="105" alt="image" src="https://github.com/user-attachments/assets/1d617d3d-ef1c-4990-ad42-f215e5e79fdf" />
 </a>
@@ -25,9 +25,8 @@
 </a>
 
 ---
-<p align"center">
 <img width="150" alt="ScubaDancingGIF" src="https://github.com/user-attachments/assets/a908a7ab-1e74-45bb-8dc5-fe7767b46f52" />
-</p>
+
 <!--
 **rohans-cs24/rohans-cs24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
